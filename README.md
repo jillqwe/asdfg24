@@ -1,2 +1,2 @@
 # asdfg24
- Индивидуальный проект 24
+ ![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")
