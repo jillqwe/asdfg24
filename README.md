@@ -27,7 +27,7 @@ Wi-Fi был создан в 1997 году инженером Джоном О'С
 # задание 4
 </div>
 <div align = "center">
- <img src="сайт 1.jpg">
+ <img src="сайт 1.JPG">
  <img src="сайт 2.jpg">
  <img src="корзина.jpg">
  <img src="новинки.jpg">
